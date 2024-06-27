@@ -81,7 +81,7 @@
         {
             "label": "Sign up",
             "altText": "Sign up",
-            "url": "/",
+            "url": "https://mekongmmo.com/tai-khoan/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
