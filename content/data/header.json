@@ -12,7 +12,7 @@
     "primaryLinks": [
         {
             "label": "Mekong MMO",
-            "url": "https://mekongmmo.com",
+            "url": "/https://mekongmmo.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
